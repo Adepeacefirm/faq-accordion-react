@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+* {
+  font-family: "Work Sans", sans-serif;
+}
+body, button {
+  font-family: "Work Sans", sans-serif;
+}
+
+body {
+  background-color: hsl(250, 71%, 93%);
+}
